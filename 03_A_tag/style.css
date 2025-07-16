@@ -1,0 +1,13 @@
+#p1{
+    color: brown;
+    text-transform: uppercase;
+    text-decoration: overline dotted;
+}
+
+#p2{
+    letter-spacing: 8px;
+}
+
+#p3{
+    word-spacing: 15px;
+}
